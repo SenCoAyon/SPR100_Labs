@@ -143,7 +143,7 @@ CounterSamples \\desktop-4h9e4ct\memory\available mbytes : 483
 - **Lessons Learned:** Pray to IT God that the computer I'm working on does not suddenly die, and use notepad with constant saving instead of vscode.dev OR just straight put it onto the github
 ### Understanding Questions
 - **Virtual Memory Concept:** Modern applications take up way too much memory, so using HDD or SSD space to compensate for RAM space can keep your computer running smoothly. 
-- **VM Resource Allocation:** Sometimes it completely disables usage of computer if you haven't given it enough. Of course, more resources is better, but 
+- **VM Resource Allocation:** Sometimes it completely disables usage of computer if you haven't given it enough. Of course, more resources is better, but if you have to share the processing power amongst how many other employees or whoever, it is difficult to share.
 - **Performance Monitoring Value:** Monitoring resources can give a hint to if there is a bitcoin miner in your system, or to give clues if resources are not properly allocated.
 ---
 **Report Completion Time:** Likely 6 hours spread over 3 days
