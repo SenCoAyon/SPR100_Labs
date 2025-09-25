@@ -117,10 +117,10 @@ CounterSamples \\desktop-4h9e4ct\memory\available mbytes : 483
 - **Performance Patterns Observed:** Noticeable spikes when opening youtube and other programs.
 #### Resource Monitor Observations
 - **Peak CPU Usage:** 96%
-- **Peak Memory Usage:** 1112 MB/sec and 39% Highest active time
+- **Peak Memory Usage:** 1451 MB
 - **Resource Usage During Activities:** Opened youtube on Firefox and Chrome which spiked the usage for about 3 seconds, then returned to nominal levels.
 #### Performance Monitor Data Collector Graph
-[image]![SenCoAyon](https://github.com/SenCoAyon/SPR100_Labs/images/performance_chart.gif)
+![image](https://github.com/SenCoAyon/SPR100_Labs/images/performance_chart.gif)
 - **How You Extracted:** Put picture into Seneca OneDrive.
 ---
 ## Analysis and Conclusions
