@@ -34,52 +34,51 @@
 
 #### System Information Commands
 - **Processor Information:** 
-processor       : 0
-vendor_id       : GenuineIntel
-cpu family      : 6
-model           : 151
-model name      : 12th Gen Intel(R) Core(TM) i7-12700
-stepping        : 2
-microcode       : 0x37
-cpu MHz         : 2112.004
-cache size      : 25600 KB
-physical id     : 0
-siblings        : 2
-core id         : 0
-cpu cores       : 2
-apicid          : 0
-initial apicid  : 0
-fpu             : yes
-fpu_exception   : yes
-cpuid level     : 32
-wp              : yes
-flags           : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon rep_good nopl xtopology tsc_reliable nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 fma cx16 sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch ssbd ibrs ibpb stibp ibrs_enhanced fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves arat umip pku ospke gfni vaes vpclmulqdq rdpid movdiri movdir64b fsrm md_clear flush_l1d arch_capabilities
-bugs            : spectre_v1 spectre_v2 spec_store_bypass swapgs itlb_multihit eibrs_pbrsb
-bogomips        : 4224.00
-clflush size    : 64
-cache_alignment : 64
-address sizes   : 45 bits physical, 48 bits virtual
-power management:
-
-processor       : 1
-vendor_id       : GenuineIntel
-cpu family      : 6
-model           : 151
-model name      : 12th Gen Intel(R) Core(TM) i7-12700
-stepping        : 2
-microcode       : 0x37
-cpu MHz         : 2112.004
-cache size      : 25600 KB
-physical id     : 0
-siblings        : 2
-core id         : 1
-cpu cores       : 2
-apicid          : 1
-initial apicid  : 1
-fpu             : yes
-fpu_exception   : yes
-cpuid level     : 32
-wp              : yes
+processor       : 0  
+vendor_id       : GenuineIntel  
+cpu family      : 6  
+model           : 151  
+model name      : 12th Gen Intel(R) Core(TM) i7-12700  
+stepping        : 2  
+microcode       : 0x37  
+cpu MHz         : 2112.004  
+cache size      : 25600 KB  
+physical id     : 0  
+siblings        : 2  
+core id         : 0  
+cpu cores       : 2  
+apicid          : 0  
+initial apicid  : 0  
+fpu             : yes  
+fpu_exception   : yes  
+cpuid level     : 32  
+wp              : yes  
+flags           : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon rep_good nopl xtopology tsc_reliable nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 fma cx16 sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch ssbd ibrs ibpb stibp ibrs_enhanced fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves arat umip pku ospke gfni vaes vpclmulqdq rdpid movdiri movdir64b fsrm md_clear flush_l1d arch_capabilities  
+bugs            : spectre_v1 spectre_v2 spec_store_bypass swapgs itlb_multihit eibrs_pbrsb  
+bogomips        : 4224.00  
+clflush size    : 64  
+cache_alignment : 64  
+address sizes   : 45 bits physical, 48 bits virtual  
+power management:  
+processor       : 1  
+vendor_id       : GenuineIntel  
+cpu family      : 6  
+model           : 151  
+model name      : 12th Gen Intel(R) Core(TM) i7-12700  
+stepping        : 2  
+microcode       : 0x37  
+cpu MHz         : 2112.004  
+cache size      : 25600 KB  
+physical id     : 0  
+siblings        : 2  
+core id         : 1  
+cpu cores       : 2  
+apicid          : 1  
+initial apicid  : 1  
+fpu             : yes  
+fpu_exception   : yes  
+cpuid level     : 32  
+wp              : yes  
 flags           : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon rep_good nopl xtopology tsc_reliable nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 fma cx16 sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch ssbd ibrs ibpb stibp ibrs_enhanced fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves arat umip pku ospke gfni vaes vpclmulqdq rdpid movdiri movdir64b fsrm md_clear flush_l1d arch_capabilities
 bugs            : spectre_v1 spectre_v2 spec_store_bypass swapgs itlb_multihit eibrs_pbrsb
 bogomips        : 4224.00
