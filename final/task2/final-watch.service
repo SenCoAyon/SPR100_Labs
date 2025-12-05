@@ -1,0 +1,11 @@
+[Unit]
+Description=SPR100 final watch logger
+
+[Service]
+Type=oneshot
+ExecStart=/bin/bash -lc './watcher.sh'
+   
+# Do not add anything after this line
+
+[Install]
+WantedBy=default.target

@@ -1,0 +1,5 @@
+tshark -i ens33 -a duration:15 -w $1
+# -a	auto-stop; you gotta give (duration:[time])/(files:[AmountOfFiles])/(filesize:[SizeIn-kB])
+# -V	view packet details
+# -Y	view display filter with specified option (e.g. "http")
+# -f	same ^ but you do it as command
